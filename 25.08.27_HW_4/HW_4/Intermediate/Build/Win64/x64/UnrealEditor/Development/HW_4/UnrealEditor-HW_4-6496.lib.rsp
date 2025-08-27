@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HW_4-6496.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\HW_4Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\HW_4.init.gen.cpp.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\RandomMoveActor.gen.cpp.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\HW_4.cpp.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\RandomMoveActor.cpp.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\PerModuleInline.gen.cpp.obj"
+"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\Default.rc2.res"
+/OUT:"C:\SpartaCoding\SpartaCoding\25.08.27_HW_4\HW_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW_4\UnrealEditor-HW_4-6496.lib"

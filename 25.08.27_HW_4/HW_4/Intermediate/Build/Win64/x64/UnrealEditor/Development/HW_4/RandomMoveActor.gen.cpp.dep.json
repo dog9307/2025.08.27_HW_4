@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\unrealeditor\\inc\\hw_4\\uht\\randommoveactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\x64\\hw_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw_4\\definitions.hw_4.h",
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\source\\hw_4\\randommoveactor.h",
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\unrealeditor\\inc\\hw_4\\uht\\randommoveactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VHOduOKy8g=",
+  "success": false,
+  "projectFilePath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj' 프로젝트를 찾을 수 없습니다. 프로젝트 참조가 올바르고 프로젝트 파일이 있는지 확인하세요.",
+      "projectPath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "filePath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "libraryId": "C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj' 프로젝트를 찾을 수 없습니다. 프로젝트 참조가 올바르고 프로젝트 파일이 있는지 확인하세요.",
+      "projectPath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "filePath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "libraryId": "C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj' 프로젝트를 찾을 수 없습니다. 프로젝트 참조가 올바르고 프로젝트 파일이 있는지 확인하세요.",
+      "projectPath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "filePath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "libraryId": "C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj' 프로젝트를 찾을 수 없습니다. 프로젝트 참조가 올바르고 프로젝트 파일이 있는지 확인하세요.",
+      "projectPath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "filePath": "C:\\SpartaCoding\\JustC++\\25.08.27_HW_4\\2025.08.27_HW_4\\25.08.27_HW_4\\HW_4\\Intermediate\\Build\\BuildRulesProjects\\HW_4ModuleRules\\HW_4ModuleRules.csproj",
+      "libraryId": "C:\\SpartaCoding\\JustC++\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

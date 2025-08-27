@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\source\\hw_4\\randommoveactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\x64\\hw_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw_4\\definitions.hw_4.h",
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\source\\hw_4\\randommoveactor.h",
+            "c:\\spartacoding\\justc++\\25.08.27_hw_4\\2025.08.27_hw_4\\25.08.27_hw_4\\hw_4\\intermediate\\build\\win64\\unrealeditor\\inc\\hw_4\\uht\\randommoveactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
